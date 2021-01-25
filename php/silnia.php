@@ -8,5 +8,5 @@ function silnia($z){
 	}
 	print($b);
 }
-silnia(5);
+silnia(8);
 ?>
